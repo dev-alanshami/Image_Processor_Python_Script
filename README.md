@@ -6,6 +6,9 @@
 
 ### The program check for requirments before running the program (C compiler, SWIpl, matlab, Haskell Compiler).
 
+The default image if not specified will be:
+![](https://github.com/dev-alanshami/Image_Processor_Python_Script/blob/main/mickey-1.png)
+
 ### Steps
 1. The first step, python script makes an API call locally to a matlab program where it turns the image to a binary file.
 2. Then, C program takes the output of matlab and and reverse the image colors by modifying the binary file.
