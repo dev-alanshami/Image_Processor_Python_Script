@@ -13,4 +13,4 @@
 4. Then, Prolog code rotate the original image to a 90 degrees.
 5. Finally, another matlab code takes the output of all of them and displays the results.
 
-![Watch the video Demo](https://youtu.be/2MSGil_I3-w)
+[Watch the video Demo](https://youtu.be/2MSGil_I3-w?si=gvXKNJi7J1Uf_IV6)
